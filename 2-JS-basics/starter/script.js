@@ -73,6 +73,7 @@ console.log(typeof x)
 
 /********************************** 
 *Operator precendence(which opearator proceeed first )
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 */
 
 var now =2018;
